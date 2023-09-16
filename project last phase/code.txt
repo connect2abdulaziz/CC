@@ -1,0 +1,5 @@
+int number;
+float id = number * number ;
+if (id)
+else
+

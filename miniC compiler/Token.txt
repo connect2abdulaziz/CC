@@ -1,0 +1,309 @@
+<Operator, >>
+<identifier, {>
+<Operator, <>
+<Operator, >>
+<identifier, @arr>
+<identifier, (>
+<identifier, )>
+<identifier, {>
+<Reserve Words, IF> 
+<Operator, <>
+<Operator, >>
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, {>
+<Reserve Words, WHILE> 
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, {>
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<Numeric literal, 1>
+<identifier, ,>
+<identifier, ,>
+<identifier, @numeric_literal>
+<identifier, ,>
+<identifier, @punctuation>
+<identifier, ,>
+<identifier, ,>
+<identifier, }>
+<identifier, (>
+<identifier, )>
+<Operator, *>
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, *>
+<identifier, {>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<identifier, }>
+<Operator, *>
+<Operator, />
+<identifier, (>
+<identifier, )>
+<identifier, {>
+<Operator, <>
+<Operator, >>
+<identifier, (>
+<Numeric literal, 0>
+<Operator, <>
+<Numeric literal, 5>
+<Operator, ++>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<Numeric literal, 0>
+<Operator, <>
+<Numeric literal, 5>
+<Operator, ++>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<Numeric literal, 0>
+<identifier, }>
+<Operator, />
+<Operator, />
+<identifier, @name>
+<Operator, *>
+<Operator, />
+<Operator, />
+<Numeric literal, 1>
+<identifier, ,>
+<identifier, ,>
+<identifier, ,>
+<identifier, ,>
+<identifier, ,>
+<identifier, (>
+<Numeric literal, 32>
+<identifier, ,>
+<Numeric literal, 64>
+<Numeric literal, 128>
+<identifier, )>
+<identifier, @size>
+<Operator, />
+<Operator, *>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, ,>
+<identifier, )>
+<identifier, (>
+<identifier, ,>
+<identifier, )>
+<Operator, *>
+<Operator, />
+<identifier, (>
+<identifier, )>
+<Numeric literal, 0>
+<Operator, />
+<Operator, *>
+<identifier, (>
+<Operator, *>
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<identifier, )>
+<identifier, {>
+<Comment, <comment>cout << "\n(r)eport, (a)dd app, r(e)move app or (q)uit: ";
+        cin >> choice;**********/*******/
+aksjdhaksjhdkas aksjd haksjd aksjdh asd\assd\a\sd a\sda sd as dasd/8/8/8/8/8/8/****//*******ajskjhk kajsdh a****aksjkhkajsd8***/
+        while (!(choice == 'r' || choice == 'a' || choice == 'e' || choice == 'q'))
+        {
+            cout <<"Invalid Selection\nRe-select a valid choice (a,r,e,q): ";
+            </cin>>choice;
+        }</comment>>
+<identifier, {>
+<Reserve Words, WHILE> 
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<Operator, *>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, {>
+<identifier, (>
+<identifier, (>
+<identifier, )>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<Numeric literal, 1>
+<identifier, ,>
+<identifier, ,>
+<identifier, @numeric_literal>
+<identifier, ,>
+<identifier, @punctuation>
+<identifier, ,>
+<identifier, ,>
+<identifier, }>
+<identifier, (>
+<identifier, )>
+<Operator, *>
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, />
+<Operator, *>
+<identifier, {>
+<identifier, (>
+<identifier, )>
+<identifier, }>
+<identifier, }>
+<Operator, *>
+<Operator, />
+<identifier, (>
+<identifier, )>
+<identifier, {>
+<Operator, <>
+<Operator, >>
+<identifier, (>
+<Numeric literal, 0>
+<Operator, <>
+<Numeric literal, 5>
+<Operator, ++>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<Numeric literal, 0>
+<Operator, <>
+<Numeric literal, 5>
+<Operator, ++>
+<identifier, )>
+<identifier, (>
+<identifier, )>
+<Comment, <comment> var for count ,</comment>>
+<Numeric literal, 0>
+<identifier, }>
+<Operator, />
+<Operator, />
+<identifier, @name>
+<Operator, *>
+<Operator, />
+<Operator, />
+<Numeric literal, 1>
+<identifier, ,>
+<identifier, ,>
+<identifier, ,>
+<Comment, <comment> punctuation,</comment>>
+<identifier, ,>
+<identifier, (>
+<Numeric literal, 32>
+<identifier, ,>
+<Numeric literal, 64>
+<Numeric literal, 128>
+<identifier, )>
+<identifier, @size>
+<Operator, />
+<Operator, *>
+<identifier, (>
+<identifier, )>
+<identifier, (>
+<identifier, ,>
+<identifier, )>
+<identifier, (>
+<identifier, ,>
+<identifier, )>

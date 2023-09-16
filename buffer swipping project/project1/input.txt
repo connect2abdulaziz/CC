@@ -1,0 +1,130 @@
+template <class T>
+class Enqueu
+{
+    stack<T> @arr;
+
+public:
+    T dequeue()
+    {
+        nIFstack<T> temp;
+        while (!arr.empty())
+        {
+            WHILEtemp.push(arr.top());
+            arr.pop();
+        }
+
+        ////////***************T val = temp.top();
+        temp.pop();
+        while (!temp.empty())
+        {
+            arr.push(temp.top());
+            temp.pop();
+        }
+        reserve_words = 1,
+    identifier,
+    @numeric_literal,
+    @punctuation,
+    Operator,
+    start_of_identifier______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj______ajklsdfjlfjflasjflajdflsjfdlfjdlajfljfdlfajldsjfdlajflsdj13481468132648126343864164782364aljfaljfafj____end_of_identifier
+    comments
+
+        return val;
+    }
+    void enqueue(T val)*////////*
+    {
+        arr.push(val);
+    }
+};*/
+
+int main()
+{
+    Enqueu<int> a;
+    for (int i = 0; i < 5; i++)
+        a.enqueue(i);
+    for (int j = 0; j < 5; j++)
+        cout << a.dequeue() << " ";
+    cout << endl;
+    return 0;
+} int capacity; // space a smart phone left
+    string @name;
+    App *app_array; // pointer to  app class
+    int nbAppsInst;
+ int size;reserve_words = 1,
+    identifier,
+    numeric_literal,
+    punctuation,
+    Operator,
+    comments
+    string name;
+    cout << "Size of your new smartphone (32, 64 or 128 GB): ";
+    cin >> @size;
+    /*cin.ignore();
+    cout << "\nSmartphone name: ";
+    getline(cin, name);
+    Smartphone phone(size, name);
+    cout << "\nSmartphone created!\n\n";*/
+    phone.report();
+    char choice = '\0'/*;
+    while (choice != *///////////*******'q')
+    {
+       <comment>cout << "\n(r)eport, (a)dd app, r(e)move app or (q)uit: ";
+        cin >> choice;**********/*******/
+aksjdhaksjhdkas aksjd haksjd aksjdh asd\assd\a\sd a\sda sd as dasd/8/8/8/8/8/8/****//*******ajskjhk kajsdh a****aksjkhkajsd8***/
+        while (!(choice == 'r' || choice == 'a' || choice == 'e' || choice == 'q'))
+        {
+            cout <<"Invalid Selection\nRe-select a valid choice (a,r,e,q): ";
+            </cin>>choice;
+        }</comment>
+ {
+            WHILEtemp.push(arr.top());
+            arr.pop();
+        }
+
+        ////////***************T val = temp.top();
+        temp.pop();
+        while (!temp.empty())
+        {
+            arr.push(temp.top());
+            temp.pop();
+        }
+        reserve_words = 1,
+    identifier,
+    @numeric_literal,
+    @punctuation,
+    Operator,
+    comments
+
+        return val;
+    }
+    void enqueue(T val)*////////*
+    {
+        arr.push(val);
+    }
+};*/
+
+int main()
+{
+    Enqueu<int> a;
+    for (int i = 0; i < 5; i++)
+        a.enqueue(i);
+    for (int j = 0; j < 5; j++)
+        cout << a.dequeue() << " ";
+    cout << endl;   <comment> var for count ,</comment>
+    return 0;
+} int capacity; // space a smart phone left
+    string @name;
+    App *app_array; // pointer to  app class
+    int nbAppsInst;
+ int size;reserve_words = 1,
+    identifier,
+    numeric_literal,
+   <comment> punctuation,</comment>
+    Operator,
+    comments
+    string name;
+    cout << "Size of your new smartphone (32, 64 or 128 GB): ";
+    cin >> @size;
+    /*cin.ignore();
+    cout << "\nSmartphone name: ";
+    getline(cin, name);
+    Smartphone phone(size, name);
